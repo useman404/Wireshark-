@@ -1,0 +1,25 @@
+✅ Étapes pour télécharger et installer Wireshark sur Windows 11 :
+Accède au site officiel :
+Va sur : https://www.wireshark.org/
+
+Clique sur "Download":
+Sur la page d’accueil, clique sur le bouton “Download”.
+
+Choisis la version Windows :
+Clique sur “Windows Installer (64-bit)” — ça va télécharger un fichier .exe.
+
+Lance le fichier téléchargé :
+Double-clique sur le fichier .exe pour commencer l’installation.
+
+Suis les instructions :
+
+Accepte les conditions.
+
+Laisse les options par défaut (sauf si tu veux changer quelque chose).
+
+Tu peux installer Npcap (obligatoire pour capturer les paquets).
+
+Tu peux aussi installer WinPcap si demandé, mais Npcap suffit pour la plupart des cas.
+
+Termine l’installation :
+Clique sur Finish, puis lance Wireshark.
